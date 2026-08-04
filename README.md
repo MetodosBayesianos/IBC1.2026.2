@@ -35,12 +35,19 @@ El problema real detrás de los problemas de conocimiento es responder preguntas
 <a name="programa"></a>
 ## Programa y materiales
 
-Los contenidos completos del programa se encuentran en [su carpeta específica](https://github.com/MetodosBayesianos/IBC1.2026.1/blob/main/0-0-programa/programa.pdf).
+Los contenidos completos del programa se encuentran en [su carpeta específica](https://github.com/MetodosBayesianos/IBC1.2026.2/blob/main/programa.pdf).
+
+### Unidad 0. Previa
+
+*Materiales*:
+
+* [Presentación](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/0-previa.pdf)
+* [Cuestionario](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/cuestionario0.py)
+
 
 ### Unidad 1. Especificación y evaluación de argumentos causales.
 
 #### 1.1. Argumentos causales alternativos e incertidumbre.
-
 
 *Materiales*:
 
