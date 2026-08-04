@@ -47,7 +47,9 @@ Los contenidos completos del programa se encuentran en [`programa.pdf`](https://
 
 ### Unidad 1. Especificación y evaluación de argumentos causales.
 
-#### 1.1. Argumentos causales alternativos e incertidumbre.
+#### 1.1. Argumentos causales alternativos e incertidumbre
+
+Del 4 al 11 de agosto.
 
 *Materiales*:
 
@@ -61,10 +63,111 @@ Los contenidos completos del programa se encuentran en [`programa.pdf`](https://
 
 #### 1.2 Sorpresa: el problema de la comunicación con la realidad.
 
+Del 11 al 25 de agosto.
+
 *Bibliografía* (link en `programa.pdf`):
 
 * Teórica: Secciones 1.1, 2.4-6, 4.1 del libro de MacKay (2003) *Information theory, inference and learning algorithms*
 * Práctica: Capítulo 3 y 10 del libro de McElreath (2020) *Statistical rethinking*.
+
+
+### Unidad 2. Métodos de inferencia y programación probabilística.
+
+#### 2.1. Inferencia exacta y pasaje de mensajes.
+
+Del 25 de agosto al 01 de septiembre.
+
+#### 2.2. Olvido: hacer inferencia en realidades complejas.
+
+Del 01 al 07 de septiembre.
+
+### Unidad 3. Predicciones causales.
+
+#### 3.1. Flujo de inferencia y eliminación de la asociación espuria.
+
+Del 07 al 15 de septiembre.
+
+#### 3.2. Estimandos y do-calculus
+
+Del 15 al 22 de septiembre.
+
+### 1er Parcial y re-entregas
+
+Del 22 al 29 de septiembre.
+
+### Unidad 4. Inferencia causal en la práctica.
+
+#### 4.1. El zoológico de algoritmos.
+
+Del 29 de septiembre al 06 de octubre.
+
+#### 4.2. El ecosistema de teorías causales.
+
+Del 06 al 13 de octubre.
+
+### Unidad 5. Contrafactuales.
+
+#### 5.1. Efectos causales naturales directos e indirectos.
+
+Se suspende (algunos contenidos se fusionan con la siguiente clase)
+
+#### 5.2. El choque de paradigmas causales.
+
+Del 13 al 20 de octubre.
+
+### Unidad 6. Toma de decisiones.
+
+#### 6.1 Corrección temporal de la teoría de juegos.
+
+Del 20 al 27 de octubre.
+
+#### 6.2 Modelos de historia completa y optimización como inferencia
+
+Se suspende (algunos contenidos se fusionan con la clase anterior)
+
+### Unidad 7. Intervenciones socioeconómicas.
+
+#### 7.1. Instituciones exitosas en la administración de bienes comunes.
+
+Del 27 de octubre al 03 de noviembre.
+
+#### 7.2. Instrumento financiero productivo.
+
+Del 03 al 10 de noviembre.
+
+### 2do Parcial y re-entregas
+
+Del 10 al 17 de noviembre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
