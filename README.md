@@ -35,14 +35,14 @@ El problema real detrás de los problemas de conocimiento es responder preguntas
 <a name="programa"></a>
 ## Programa y materiales
 
-Los contenidos completos del programa se encuentran en [su carpeta específica](https://github.com/MetodosBayesianos/IBC1.2026.2/blob/main/programa.pdf).
+Los contenidos completos del programa se encuentran en [`programa.pdf`](https://github.com/MetodosBayesianos/IBC1.2026.2/blob/main/programa.pdf).
 
 ### Unidad 0. Previa
 
 *Materiales*:
 
-* [Presentación](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/0-previa.pdf)
-* [Cuestionario](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/cuestionario0.py)
+* [Presentación](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/0-previa/0-previa.pdf)
+* [Cuestionario](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/0-previa/cuestionario0.py)
 
 
 ### Unidad 1. Especificación y evaluación de argumentos causales.
@@ -52,16 +52,16 @@ Los contenidos completos del programa se encuentran en [su carpeta específica](
 *Materiales*:
 
 * [Video](https://youtu.be/5pzmCWPaRMM?si=qDESYdtz3q6Z9F-z)
-* [Teórica](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/1.1-argumentos_causales/teorica)
+* [Teórica](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/1.1-argumentos_causales/teorica/1.1-argumentos_causales_e_incertidumbre.pdf)
 
-*Bibliografía*:
+*Bibliografía* (link en `programa.pdf`):
 
 * Teórica: Capítulos 2 y 3 (hasta el final de la sección 3.2) de libro de Daphne Koller (2009) *Probabilistic Graphical Models*
 * Práctica: Capítulo 2 del libro de McElreath (2020) *Statistical rethinking* y capítulo 2 del libro de Winn (2023) *Model Based Machine Learning*
 
 #### 1.2 Sorpresa: el problema de la comunicación con la realidad.
 
-*Bibliografía*:
+*Bibliografía* (link en `programa.pdf`):
 
 * Teórica: Secciones 1.1, 2.4-6, 4.1 del libro de MacKay (2003) *Information theory, inference and learning algorithms*
 * Práctica: Capítulo 3 y 10 del libro de McElreath (2020) *Statistical rethinking*.
