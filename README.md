@@ -105,33 +105,23 @@ Del 29 de septiembre al 06 de octubre.
 
 Del 06 al 13 de octubre.
 
-### Unidad 5. Contrafactuales.
+### Unidad 5. Contrafactuales y toma de decisiones.
 
-#### 5.1. Efectos causales naturales directos e indirectos.
-
-Se suspende (algunos contenidos se fusionan con la siguiente clase)
-
-#### 5.2. El choque de paradigmas causales.
+#### 5.1. El choque de paradigmas causales.
 
 Del 13 al 20 de octubre.
 
-### Unidad 6. Toma de decisiones.
-
-#### 6.1 Corrección temporal de la teoría de juegos.
+#### 5.2 Corrección temporal de la teoría de juegos.
 
 Del 20 al 27 de octubre.
 
-#### 6.2 Modelos de historia completa y optimización como inferencia
+### Unidad 6. Intervenciones socioeconómicas.
 
-Se suspende (algunos contenidos se fusionan con la clase anterior)
-
-### Unidad 7. Intervenciones socioeconómicas.
-
-#### 7.1. Instituciones exitosas en la administración de bienes comunes.
+#### 6.1. Instituciones exitosas en la administración de bienes comunes.
 
 Del 27 de octubre al 03 de noviembre.
 
-#### 7.2. Instrumento financiero productivo.
+#### 6.2. Instrumento financiero productivo.
 
 Del 03 al 10 de noviembre.
 
