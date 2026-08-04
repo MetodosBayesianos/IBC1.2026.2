@@ -258,8 +258,8 @@ Justifique
 # %% [markdown]
 # ### Predicciones
 #
-# La predicción que una hipótesis H hace de un conjunto de datos, P(Datos = {d1, ..., d_n} | H), puede calcularse como el producto de las predicciones que la hipótesis hace de cada dato individual dado los datos ya vistos.
-# Para que el cálculo sea correcto es importante que se respete el orden en el cual los datos fueron observados en los hechos.
+# La predicción que una hipótesis H hace de un conjunto de datos, P(Datos = {d1, ..., d_n} | H), puede calcularse como el producto de las predicciones que la hipótesis hace de cada dato individual dado los datos ya vistos, P(d1|H)P(d2|d1,H)...
+# Para que el cálculo sea correcto es importante que se respete el orden en el cual los datos fueron observados en los hechos, es decir, que no ocurra P(d2|H)P(d1|d2,H)..
 #
 # 0. Siempre
 # 1. A veces
@@ -297,7 +297,7 @@ Justifique
 
 
 # %% [markdown]
-# ### 1.10 Teorías causales
+# ### Teorías causales
 #
 # Históricamente todas las ciencias con datos, desde la física hasta las ciencias sociales, explicaron el mundo a través de teorías causales.
 # Los recientes avances en el área de aprendizaje automático e inteligencia artificial, sin embargo, se produjeron por el desarrollo de algoritmos altamente predictivos sin ninguna interpretación causal.
@@ -325,7 +325,7 @@ Justifique
 # %% [markdown]
 # ### Predicción e información
 #
-# Cuanto mejor se predice más información se obtiene
+# Cuanto mejor se predice más información (de Shannon) se obtiene.
 #
 # 0. Siempre
 # 1. A veces
@@ -346,7 +346,7 @@ Justifique
 # %% [markdown]
 # ### Modelos e información
 #
-# Al evaluar modelos causales, preferimos el que acumula más información
+# Al evaluar modelos causales, preferimos el que acumula más información (de Shannon).
 #
 # 0. Siempre
 # 1. A veces
@@ -385,7 +385,7 @@ Justifique
 # %% [markdown]
 # ### Contrafactuales
 #
-# Cuando conocemos los mecasnimos causales probabilísticos podemos usar la información factual para predecir cuál hubiera sido un resultado contrafactual
+# Cuando conocemos los mecasnimos causales probabilísticos de cada variable podemos usar la información factual para predecir cuál hubiera sido un resultado contrafactual.
 #
 # 0. Siempre
 # 1. A veces
@@ -408,7 +408,8 @@ Justifique
 #
 # Una casa de apuestas nos paga 3 por Cara y 1.2 por Sello por el lanzamiento de moneda.
 # La moneda es normal, con 0.5 de probabilidad de que salga Cara o Sello.
-# Supongamos que nos ofrecen jugar 1000 veces, pero apostando absolutamente todos los recursos en cada paso temporal.
+# Supongamos que nos ofrecen jugar 10000 veces, pero apostando absolutamente todos los recursos en cada paso temporal.
+# Apostamos todo, nos devuelven actualizado y volvemos a apostar.
 # ¿Qué proporción conviene apostar a Cara?
 # Notar que el resto se asigna a Sello.
 # Notar además que si apostamos todo a Cara y sale Sello perdemos todos los recursos y no podemos volver a jugar (solo nos pagan en el lado donde sale la moneda).
@@ -448,8 +449,10 @@ Justifique
 # ### Apuesta individual
 #
 # Una casa de apuestas paga 3 por Cara y 1.2 por Sello. La moneda tiene 0.5 de probabilidad de que salga Cara o Sello.
-# Nos ofrecen jugar 1000 veces, apostando en cada ocasión todos nuestros recursos, 50% a Cara y 50% a Sello.
+# Nos ofrecen jugar 10000 veces, apostando en cada ocasión todos nuestros recursos, 50% a Cara y 50% a Sello.
 # ¿Nos conviene jugar?
+# Notar que cuando sale Cara, crecen nuestros recursos 50% (Si teníamos 100, pusimos 50 en Cara y nos pagaron 3*50=150).
+# Notar que cuando sale Sello, crecen nuestros recursos -40% (Si teníamos 100, pusimos 50 en Cara y nos pagaron 1.2*50=60).
 #
 # 0. No
 # 1. Sí
@@ -468,8 +471,8 @@ Justifique
 # ### Teoría de utilidad esperada
 #
 # La teoría de utilidad esperada dice que debemos aceptar una apuesta cuando la utilidad esperada es positiva.
-# Supongamos que elegimos una apuesta que nos garantiza crecer 50% cuando sale Cara y caer solo 40% cuando sale Sello.
-# Notar que la esperanza de los recursos es positiva, crece a 5% por paso temporal.
+# Supongamos que elegimos una apuesta que nos garantiza crecer 50% cuando sale Cara y caer solo 40% cuando sale Sello (el caso anterior).
+# Notar que la esperanza de los recursos es positiva, crece a 5% por paso temporal ((150+60)/2=210/2=105).
 # Supongamos que nos ofrecen jugar 10000 veces en un instante, usando absolutamente todos los recursos.
 # ¿No conviene jugar?
 #
@@ -493,6 +496,7 @@ Justifique
 #
 # Supongamos que ya estamos jugando una apuesta que nos garantiza crecer 50% cuando sale Cara y caer solo 40% cuando sale Sello.
 # ¿Nos conviene juntarnos con alguien, y al final de cada paso temporal poner todos los recursos en un fondo común y dividirlos en partes iguales?
+#
 #
 # 0. No conviene
 # 1. Indistinto
