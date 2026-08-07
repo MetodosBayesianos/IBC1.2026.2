@@ -1,0 +1,48 @@
+[submodule "estudiantes/leialorenzo"]
+	path = estudiantes/leialorenzo
+	url = git@github.com:leialorenzo/L_A_IBC.git
+[submodule "estudiantes/rriveraro"]
+	path = estudiantes/rriveraro
+	url = git@github.com:rriveraro/ibc.2026.git
+[submodule "estudiantes/jaspina-unsam"]
+	path = estudiantes/jaspina-unsam
+	url = git@github.com:jaspina-unsam/bayecau.git
+[submodule "estudiantes/velizan"]
+	path = estudiantes/velizan
+	url = git@github.com:velizan/inferencia_bayesiana_causal.git
+[submodule "estudiantes/Jorge10192"]
+	path = estudiantes/Jorge10192
+	url = git@github.com:Jorge10192/IBC-UNSAM-2C2026.git
+[submodule "estudiantes/AldiM8"]
+	path = estudiantes/AldiM8
+	url = git@github.com:AldiM8/Inferencia-Bayesiana-Casual.2C.20026.git
+[submodule "estudiantes/miqaapz98"]
+	path = estudiantes/miqaapz98
+	url = git@github.com:miqaapz98/Estadistica-Bayesiana-2026-2C.git
+[submodule "estudiantes/uleandro-git"]
+	path = estudiantes/uleandro-git
+	url = git@github.com:uleandro-git/IBC.git
+[submodule "estudiantes/gfalasco-gh"]
+	path = estudiantes/gfalasco-gh
+	url = git@github.com:gfalasco-gh/materia_ibc.git
+[submodule "estudiantes/donascarinci1"]
+	path = estudiantes/donascarinci1
+	url = git@github.com:donascarinci1/Inferencia-bayesiana-causal.git
+[submodule "estudiantes/almeira16"]
+	path = estudiantes/almeira16
+	url = git@github.com:almeira16/IBC-Mateo-Almeira.git
+[submodule "estudiantes/Agustin-Vrsalovic"]
+	path = estudiantes/Agustin-Vrsalovic
+	url = git@github.com:Agustin-Vrsalovic/Inf-Bayesiana-Causal-Cuestionarios.git
+[submodule "estudiantes/MauricioKreszczuk"]
+	path = estudiantes/MauricioKreszczuk
+	url = git@github.com:MauricioKreszczuk/Kreszczuk-IBC1.2026.2.git
+[submodule "estudiantes/agustinsumay05"]
+	path = estudiantes/agustinsumay05
+	url = git@github.com:agustinsumay05/Inferencia-bayesiana-causal.git
+[submodule "estudiantes/aecheverri"]
+	path = estudiantes/aecheverri
+	url = git@github.com:aecheverri/Inferencia_Causal_chores.git
+[submodule "estudiantes/Lautaro-Costa44"]
+	path = estudiantes/Lautaro-Costa44
+	url = git@github.com:Lautaro-Costa44/student-performance-ml.git
