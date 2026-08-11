@@ -46,3 +46,6 @@
 [submodule "estudiantes/Lautaro-Costa44"]
 	path = estudiantes/Lautaro-Costa44
 	url = git@github.com:Lautaro-Costa44/student-performance-ml.git
+[submodule "estudiantes/dbaron-dev"]
+	path = estudiantes/dbaron-dev
+	url = https://github.com/dbaron-dev/Inferencia-Bayesiana-2026-o-IBC1-Entregas.git
