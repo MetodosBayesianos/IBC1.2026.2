@@ -40,9 +40,6 @@
 [submodule "estudiantes/aecheverri"]
 	path = estudiantes/aecheverri
 	url = git@github.com:aecheverri/Inferencia_Causal_chores.git
-[submodule "estudiantes/Lautaro-Costa44"]
-	path = estudiantes/Lautaro-Costa44
-	url = git@github.com:Lautaro-Costa44/student-performance-ml.git
 [submodule "estudiantes/donascarinci"]
 	path = estudiantes/donascarinci
 	url = git@github.com:donascarinci/Inferencia-bayesiana-causal.git
