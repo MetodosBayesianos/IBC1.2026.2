@@ -43,3 +43,6 @@
 [submodule "estudiantes/donascarinci"]
 	path = estudiantes/donascarinci
 	url = git@github.com:donascarinci/Inferencia-bayesiana-causal.git
+[submodule "estudiantes/Lautaro-Costa"]
+	path = estudiantes/Lautaro-Costa
+	url = git@github.com:Lautaro-Costa44/inferencia-bayesiana-casual.git
