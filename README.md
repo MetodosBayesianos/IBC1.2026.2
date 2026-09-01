@@ -65,6 +65,11 @@ Del 4 al 11 de agosto.
 
 Del 11 al 25 de agosto.
 
+*Materiales*:
+
+* [Video](https://youtu.be/2K9h6mB-xfc?si=DinZY2w5_EcwkQtm)
+* [Teórica](https://github.com/MetodosBayesianos/IBC1.2026.2/blob/main/1.2-sorpresa_comunicacion_realidad/teorica/1.2-sorpresa_comunicacion_realidad.pdf)
+
 *Bibliografía* (link en `programa.pdf`):
 
 * Teórica: Secciones 1.1, 2.4-6, 4.1 del libro de MacKay (2003) *Information theory, inference and learning algorithms*
@@ -76,6 +81,12 @@ Del 11 al 25 de agosto.
 #### 2.1. Inferencia exacta y pasaje de mensajes.
 
 Del 25 de agosto al 01 de septiembre.
+
+*Materiales*:
+
+* [Video](https://youtu.be/zfMJbwcFBjQ?si=t4VjLQ72MGlKyg45)
+* [Teórica](https://github.com/MetodosBayesianos/IBC1.2026.2/blob/main/2.1-inferencia_exacta/teorica/2.1-exacta_pasaje_de_mensajes.pdf)
+
 
 #### 2.2. Olvido: hacer inferencia en realidades complejas.
 
