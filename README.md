@@ -49,8 +49,6 @@ Los contenidos completos del programa se encuentran en [`programa.pdf`](https://
 
 #### 1.1. Argumentos causales alternativos e incertidumbre
 
-Del 4 al 11 de agosto.
-
 *Materiales*:
 
 * [Video](https://youtu.be/5pzmCWPaRMM?si=qDESYdtz3q6Z9F-z)
@@ -62,8 +60,6 @@ Del 4 al 11 de agosto.
 * Práctica: Capítulo 2 del libro de McElreath (2020) *Statistical rethinking* y capítulo 2 del libro de Winn (2023) *Model Based Machine Learning*
 
 #### 1.2 Sorpresa: el problema de la comunicación con la realidad.
-
-Del 11 al 25 de agosto.
 
 *Materiales*:
 
@@ -80,71 +76,71 @@ Del 11 al 25 de agosto.
 
 #### 2.1. Inferencia exacta y pasaje de mensajes.
 
-Del 25 de agosto al 01 de septiembre.
-
 *Materiales*:
 
 * [Video](https://youtu.be/zfMJbwcFBjQ?si=t4VjLQ72MGlKyg45)
 * [Teórica](https://github.com/MetodosBayesianos/IBC1.2026.2/blob/main/2.1-inferencia_exacta/teorica/2.1-exacta_pasaje_de_mensajes.pdf)
 
+*Bibliografía* (link en `programa.pdf`):
+
+* Teórica: Koller 2009. Probabilistic Graphical Models. Lectura: cap 9 y 10.
+* Práctica: Bishop 2006. Pattern Recognition and Machine Learning. Lectura: cap 3 (y 2).
 
 #### 2.2. Olvido: hacer inferencia en realidades complejas.
 
-Del 01 al 07 de septiembre.
+*Materiales*:
+
+* [Video 1](https://drive.google.com/file/d/15JYl7i3K9OZm2hgE6K-MJht7yH-9QYeU/view)
+* [Video 2](https://drive.google.com/file/d/1er02P-VIreHd1KxHfkmXFrqBOPxQVhHa/view)
+* [Teórica](https://github.com/MetodosBayesianos/IBC1.2026.2/blob/main/2.2-inferencia_aproximada/teorica/)
+
+*Bibliografía*
+
+Teórica:
+* Bishop 2006. Pattern Recognition and Machine Learning. Capítulo 10.
+* Capítulo 9 del libro de McElreath (2020) *Statistical rethinking*.
+* [Simulated-Based inference: A Practical Guide](https://arxiv.org/pdf/2508.12939)
+Práctica:
+* [Pyro][https://pyro.ai]
+* [Trunglang][https://turinglang.org/]
+* [PyMC][https://www.pymc.io]
+* [Stan][https://mc-stan.org/]
+
+### Trabajo Práctico: 3 Casos Reales.
+
+*Materiales*:
+
+* [Modelos para casos reales](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/2.2-inferencia_aproximada/practica)
 
 ### Unidad 3. Predicciones causales.
 
 #### 3.1. Flujo de inferencia y eliminación de la asociación espuria.
 
-Del 07 al 15 de septiembre.
+05 - 09 octubre
 
 #### 3.2. Estimandos y do-calculus
 
-Del 15 al 22 de septiembre.
+12- 16 octubre
 
-### 1er Parcial y re-entregas
-
-Del 22 al 29 de septiembre.
-
-### Unidad 4. Inferencia causal en la práctica.
+### Unidad 4. Inferencia causal.
 
 #### 4.1. El zoológico de algoritmos.
 
-Del 29 de septiembre al 06 de octubre.
+20 Octubre
 
-#### 4.2. El ecosistema de teorías causales.
+#### 4.2. El choque de paradigmas causales.
 
-Del 06 al 13 de octubre.
+27 octubre
 
-### Unidad 5. Contrafactuales y toma de decisiones.
+### Cierre 5.
 
-#### 5.1. El choque de paradigmas causales.
+#### 5.1 Corrección temporal de la teoría de juegos.
 
-Del 13 al 20 de octubre.
+03 Noviembre
 
-#### 5.2 Corrección temporal de la teoría de juegos.
+#### 5.2 Evaluación final.
 
-Del 20 al 27 de octubre.
-
-### Unidad 6. Intervenciones socioeconómicas.
-
-#### 6.1. Instituciones exitosas en la administración de bienes comunes.
-
-Del 27 de octubre al 03 de noviembre.
-
-#### 6.2. Instrumento financiero productivo.
-
-Del 03 al 10 de noviembre.
-
-### 2do Parcial y re-entregas
-
-Del 10 al 17 de noviembre.
-
-
-
-
-
-
+10 Noviembre
 
 
 
