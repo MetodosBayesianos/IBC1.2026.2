@@ -155,6 +155,11 @@ Teórica:
 
 27 octubre
 
+Teórica:
+
+- Pearl 2009. [Causal inference in statistics: An overview](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf). No estaba en el programa original.
+
+
 ### Cierre 5.
 
 #### 5.1 Corrección temporal de la teoría de juegos.
