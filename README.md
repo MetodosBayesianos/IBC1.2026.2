@@ -83,8 +83,14 @@ Los contenidos completos del programa se encuentran en [`programa.pdf`](https://
 
 *Bibliografía* (link en `programa.pdf`):
 
-* Teórica: Koller 2009. Probabilistic Graphical Models. Lectura: cap 9 y 10.
-* Práctica: Bishop 2006. Pattern Recognition and Machine Learning. Lectura: cap 3 (y 2).
+Teórica:
+
+- Koller 2009. Probabilistic Graphical Models. Lectura: cap 9 y 10.
+- Bishop 2006. Pattern Recognition and Machine Learning. Lectura: cap 3 (y 2).
+
+Práctica:
+
+- McElreath 2020. Statistical Rethinking. Lectura: cap 4.
 
 #### 2.2. Olvido: hacer inferencia en realidades complejas.
 
@@ -100,13 +106,14 @@ Teórica:
 * Bishop 2006. Pattern Recognition and Machine Learning. Capítulo 10.
 * Capítulo 9 del libro de McElreath (2020) *Statistical rethinking*.
 * [Simulated-Based inference: A Practical Guide](https://arxiv.org/pdf/2508.12939)
+
 Práctica:
 * [Pyro][https://pyro.ai]
 * [Trunglang][https://turinglang.org/]
 * [PyMC][https://www.pymc.io]
 * [Stan][https://mc-stan.org/]
 
-### Trabajo Práctico: 3 Casos Reales.
+### Trabajo práctico, tres casos reales.
 
 *Materiales*:
 
@@ -116,11 +123,27 @@ Práctica:
 
 #### 3.1. Flujo de inferencia y eliminación de la asociación espuria.
 
-05 - 09 octubre
+* [Teórica](https://github.com/MetodosBayesianos/IBC1.2026.2/tree/main/3.1-flujo_de_inferencia/teorica)
+
+*Bibliografía*
+
+Teórica:
+
+- Pearl 2009. [Causal inference in statistics: An overview](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf). No estaba en el programa original.
+
+Práctica:
+
+- McElreath 2020. Statistical Rethinking. Lectura: cap 5 y 6.
+
 
 #### 3.2. Estimandos y do-calculus
 
 12- 16 octubre
+
+Teórica:
+
+- Pearl 2009. [Causal inference in statistics: An overview](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf). No estaba en el programa original.
+
 
 ### Unidad 4. Inferencia causal.
 
