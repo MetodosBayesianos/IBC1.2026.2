@@ -4,7 +4,7 @@ import pymc as pm
 import pytensor.tensor as pt
 
 # Datos: cantidad de positivos (0 a 3) de cada operador (fila) en cada contexto (columna)
-data = pd.read_csv("../2-data/positivos_por_cepas_verdaderos.csv")
+data = pd.read_csv("../datos/02-positivos_por_cepas_verdaderos.csv")
 contextos = ["20par-DTU1", "20par-DTU2", "20par-DTU6", "50par-DTU1", "50par-DTU2", "50par-DTU6"]
 N = 3
 n = np.round(data[contextos].to_numpy() / 100 * N).astype(int)
